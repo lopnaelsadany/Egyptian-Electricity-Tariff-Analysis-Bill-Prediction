@@ -13,8 +13,7 @@ Python (Pandas, NumPy, Scikit-learn) · SQL Server · Power BI (DAX) · Streamli
    handled missing values and invalid readings.
 2.Data modeling (SQL Server): star schema with 1 fact table and 5 dimension tables.
 3.Dashboard (Power BI): 9 interactive pages.
-4. Machine Learning: model that predicts a household's bill from recent usage
-   and household characteristics, deployed as a Streamlit app.
+4. Machine Learning: model that predicts a household's bill from recent usage and household characteristics, with a GUI for interactive predictions.
 
 ## Key Insights
 - Average consumption rises from ~231 kWh to ~1,059 kWh as large appliances increase from 2 to 8.
